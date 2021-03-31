@@ -1,0 +1,11 @@
+/Users/andreas/Projects/uiApp/uiApp/bin/Debug/uiApp.exe
+/Users/andreas/Projects/uiApp/uiApp/bin/Debug/uiApp.pdb
+/Users/andreas/Projects/uiApp/uiApp/obj/Debug/actool/_PartialAppManifest.items
+/Users/andreas/Projects/uiApp/uiApp/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/andreas/Projects/uiApp/uiApp/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/andreas/Projects/uiApp/uiApp/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/andreas/Projects/uiApp/uiApp/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/andreas/Projects/uiApp/uiApp/obj/Debug/uiApp.csprojAssemblyReference.cache
+/Users/andreas/Projects/uiApp/uiApp/obj/Debug/uiApp.csproj.CoreCompileInputs.cache
+/Users/andreas/Projects/uiApp/uiApp/obj/Debug/uiApp.exe
+/Users/andreas/Projects/uiApp/uiApp/obj/Debug/uiApp.pdb

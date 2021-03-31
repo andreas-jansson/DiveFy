@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>B5CC06D9-E0F2-462F-85CD-D4BAD0FAF5CF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>B5CC06D9-E0F2-462F-85CD-D4BAD0FAF5CF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>uiApp-bkisjblwtcrzpafeyaoqdgpeeazn</string>
+			<key>timeStartedRecording</key>
+			<real>638895556.21271396</real>
+			<key>timeStoppedRecording</key>
+			<real>638895566.73283398</real>
+			<key>title</key>
+			<string>Build target uiApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B5CC06D9-E0F2-462F-85CD-D4BAD0FAF5CF</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
